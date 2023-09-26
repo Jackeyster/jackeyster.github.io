@@ -1,10 +1,16 @@
 nav {
   background-color: #3458E8;
   text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
 }
 
 nav a {
   color: #F6F6E5;
+  display: block;
+  padding: 8px;
 }
 
 body {
